@@ -4,14 +4,10 @@
     <!--  头部  -->
     <div class="manager-header">
       <div class="manager-header-left">
-<!--        <img src="@/assets/imgs/logo.png" />-->
-        <!--        <div class="title"> x x 知识图谱产业链预警平台</div>-->
-
-        <img src="@/assets/imgs/完整logo.png" style="width: 200px; height: auto;" />
-
+<!--  <img src="@/assets/imgs/logo.png" />-->
+<!--<div class="title"> x x 知识图谱产业链预警平台</div>-->
+      <img src="@/assets/imgs/完整logo.png" style="width: 200px; height: auto;" />
       </div>
-
-
 
       <el-breadcrumb class="manager-header-center" >
         <el-breadcrumb-item :to="{ path: '/' }">首页</el-breadcrumb-item>
